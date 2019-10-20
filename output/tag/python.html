@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>AC Craft - Blog - python</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">AC Craft - Blog </a></h1>
+                <nav><ul>
+                    <li><a href="../category/main.html">main</a></li>
+                    <li><a href="../category/weather.html">weather</a></li>
+                </ul>
+                </nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="../test-pelican-content.html">Test Pelican content</a></h1>
+<footer class="post-info">
+        <span>Sun 25 August 2019</span>
+<span>| tags: <a href="../tag/welcome.html">welcome</a><a href="../tag/python.html">python</a><a href="../tag/pelican.html">pelican</a></span>
+</footer><!-- /.post-info --><h2>This is my first Pelican documen</h2>
+<p>This is my first attempt at making some content for my github.io page. This page is written using Markdown .md files. I plan to use Python to generate most of my content, so it will be an interesting exercise figuring out how to write content in a Jupyter notebook, then integrating that content in the Pelican static site generator. I also am looking to develop some content in R/R Studio, using R markdown, so hopefully that will be feasible to integrate. I especially want to see if it's feasible to insert dynamic charts created using plotly. </p>
+<p>Right now, I have two separate projects that create this content. 
+1. The actual github.io page which only contains content, readme, and gitignore. 
+2. A project where I have Pelican installed which actually creates content. Luckily keeping the two pages in sync seems fairly easy, once I run the <code>pelican content</code> command, I run rsync using wsl, <code>wsl rsync -a ./pelican_gitio/output/ ./accraft.github.io</code>. </p>                </article>
+<p class="paginator">
+    Page 1 / 1
+</p>
+            </aside><!-- /#featured -->
+            </ol><!-- /#posts-list -->
+            </section><!-- /#content -->
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="https://twitter.com/ace_d0g">Twitter</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme <a href="https://github.com/blueicefield/pelican-blueidea/">blueidea</a>, inspired by the default theme.</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
