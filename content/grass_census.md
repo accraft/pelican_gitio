@@ -10,7 +10,9 @@ Now that I've been in the house for over a year, I have a better idea of what ty
 * [Oregon State Grass Structures](https://forages.oregonstate.edu/regrowth/how-does-grass-grow/grass-structures)
 
 Most nomenclature used in the identification and classification of turfgrasses is relatively intuitive, but there are a few specialized terms for the areas around where the blade extends from the main stalk. I therefore included an image from Oregon State guide below as a reference. 
-![Oregon State Collar Closeup](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/collars.jpg)
+
+![](./embedded/grass_entry/collars.jpg)
+*Oregon State Collar Closeup*
 
 ###Methodology
 I have identified 6 main areas in the lawn, each with varying amounts of sunlight, water, and soil type. The are as follows:
@@ -21,7 +23,8 @@ I have identified 6 main areas in the lawn, each with varying amounts of sunligh
 4. Back Right: this area is shaded in the morning but in the full light of day in the hot afternoon. This may be the most difficult area to maintain a solid turf coverage due to the combination of lack of light during the cooler morning and full sun during the most intense parts of the summer. 
 5. Back Left: I have paid the most attention to this area since when we first moved in the ground was torn up after removing a tree. I attempted to plant several grass seed varieties, and while the lawn is definitely thicker than it was the first year, I am most interested in getting this area looking good in the next year. It is partially shaded with afternoon sun, and gets plenty of water. It is the most sloped of any parts of the yard, so I am curious to see how that impacts any turn development. Below is a picture showing my first (and very unsuccessful) turf grass growing trial. 
 
-![Back left region of yard in late April, 2019](./grass_entry/back_left_20190427.jpg)
+<img src="./embedded/grass_entry/back_left_20190427.jpg" width="200">
+*Back left region of yard in late April, 2019*
 
 ###Tall Fescue
 Per the [University of Maryland General Guidelines for Lawn Maintenance in Maryland](http://www.mdturfcouncil.org/resources/Documents/TT%20Bulletins/TT-63%20General%20Guidelines%20For%20Lawn%20Maintenance%20In%20Maryland.pdf) tall fescue blends are the best variety for the transition zone microclimate in the DC/MD/Northern VA region due to their lower fertilizer, water, and other maintenance requirements. Luckily it already appears this variety is the most widespread in the lawn, with a significant presence in all 5 regions of the yard, though probably weakest in the Back Right region.  

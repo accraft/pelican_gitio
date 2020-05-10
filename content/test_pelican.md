@@ -3,7 +3,7 @@ Date: 2019-08-25 23:17
 Category: main
 tags: welcome, python, pelican
 
-##This is my first Pelican documen
+##This is my first Pelican document
 
 This is my first attempt at making some content for my github.io page. This page is written using Markdown .md files. I plan to use Python to generate most of my content, so it will be an interesting exercise figuring out how to write content in a Jupyter notebook, then integrating that content in the Pelican static site generator. I also am looking to develop some content in R/R Studio, using R markdown, so hopefully that will be feasible to integrate. I especially want to see if it's feasible to insert dynamic charts created using plotly. 
 
