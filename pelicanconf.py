@@ -22,12 +22,14 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('You can modify those links in your config file', '#'),)
 
 THEME='pelican-blueidea'
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/ace_d0g'),)
+SOCIAL = (('You can add links in your config file', '#'),
+        ('Twitter', 'https://twitter.com/ace_d0g'),)
 
 DEFAULT_PAGINATION = 10
 
